@@ -53,3 +53,4 @@ With a robust background in data analytics, I aim to join a dynamic team where I
 - <a href="https://example.com">Customer Churn Prediction</a>: Created and evaluated machine learning models to predict customer churn and improve retention strategies.
 - <a href="https://example.com">Inventory Management System</a>: Designed and implemented a relational database to manage and query inventory data efficiently.
 - <a href="https://example.com">Financial Data Analysis</a>: Utilized Python to analyze and visualize financial datasets, providing actionable insights for decision-making.
+- <a href="https://github.com/OtooCodes/CrimeData-/tree/main">Crime Data Analysis Project (2020 - Present)</a>: Analyzed crime data to identify patterns and trends, assisting in the development of strategies to improve public safety and resource allocation.
